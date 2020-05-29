@@ -1,2 +1,2 @@
-# IGTI---Full-Stack
-IGTI - BootCamp Full Stack
+# IGTI-Full-Stack
+IGTI - BootCamp Online Desenvolvedor Full Stack
